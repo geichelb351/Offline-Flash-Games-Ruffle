@@ -1,23 +1,24 @@
 # Steve's Offline Flash Games
 Offline Flash Games that can work offline and never be blocked, for use during those boring times at school or work but also useful for times where there is no internet.
-View the [Online Demo](https://steve-tech.github.io/Offline-Flash-Games/index.html).
+View the [Online Demo](htpp://stevesflashgames.orgfree.com).
+NOTE: ALL IINFORMATION BELOW IS THE OG INFORMATION, I HAVENT TESTED ANY OF IT YET. HOWEVER, RUFFLE NEEDS TO BE ONLINE TO WORK< SO YOU NEED TO SELF HOST OR USE MY LINK ABOVE.
 ## Games
- - 2048
- - Chess 3
+ - 2048 (no support yet)
+ - Chess 3 (no support yet)
  - Doom
- - Duck Life 1, 2, 3 & 4
- - Earn to Die 1, 2, 2012 & 2012 Part 2
- - Minicraft
- - Nyan Cat - Lost in Space
- - PAC-MAN
- - Run 1, 2 & 3
- - Tetris
- - Fireboy and Watergirl in The Crystal Temple, Forest Temple, Ice Temple & Light Temple (These haven't been tested properly yet)
+ - Duck Life 1, 2, 3 & 4 (no support yet)
+ - Earn to Die 1, 2, 2012 & 2012 Part 2 (no support yet)
+ - Minicraft (no support yet)
+ - Nyan Cat - Lost in Space (no support yet)
+ - PAC-MAN (no support yet)
+ - Run 1, 2 & 3 (Run 3 is VERY laggy on ruffle, working on a fix.)
+ - Tetris (no support yet)
+ - Fireboy and Watergirl in The Crystal Temple, Forest Temple, Ice Temple & Light Temple (These haven't been tested properly yet + no support)
 
-## Download
+## Download (DONT DO)
 View the [releases here](https://github.com/Steve-Tech/Offline-Flash-Games/releases).
 There is no Mac version because I don't have a Mac so I can't test or get the files needed to compile, you will have to run the HTML version or compile Electron for yourself, feel free to fork this and make a Mac version.
-## Compiling
+## Compiling (DONT DO)
 1. Install Node.js, electron and electron-packager
  - [Download Node.js here](https://nodejs.org/en/)
  - Open command prompt in the directory of the repository and run `npm install electron --save-dev`
