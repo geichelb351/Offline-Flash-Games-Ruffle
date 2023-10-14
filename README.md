@@ -1,7 +1,7 @@
 # Steve's Offline Flash Games
 Offline Flash Games that can work offline and never be blocked, for use during those boring times at school or work but also useful for times where there is no internet.
 View the [Online Demo](htpp://stevesflashgames.orgfree.com).
-NOTE: ALL IINFORMATION BELOW IS THE OG INFORMATION, I HAVENT TESTED ANY OF IT YET. HOWEVER, RUFFLE NEEDS TO BE ONLINE TO WORK< SO YOU NEED TO SELF HOST OR USE MY LINK ABOVE.
+NOTE: ALL INFORMATION BELOW IS THE OG INFORMATION, I HAVENT TESTED ANY OF IT YET. HOWEVER, RUFFLE NEEDS TO BE ONLINE TO WORK< SO YOU NEED TO SELF HOST OR USE MY LINK ABOVE.
 ## Games
  - 2048 (no support yet)
  - Chess 3 (no support yet)
